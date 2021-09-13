@@ -1,4 +1,6 @@
-### Hi there 👋
+ Ooooh 🥚 easter egg 🥚 Yummy. Gief Moar Plos
+ 
+ 👋 Howdy. I'm Aaron.
 
 <!--
 **akbattman/akbattman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
