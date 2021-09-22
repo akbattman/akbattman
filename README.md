@@ -2,9 +2,12 @@
  
  👋 Howdy. I'm Aaron Battman.
 
- After a few too many years of avoiding office space I have plunged back into the IT 💻 world, kicking off with an intensive (to say the least 👀), 9 week coding bootcamp with Le Wagon London and oh my days.., 🤯 what an experience 🥳 .  MASSIVE TYS to everyone there XX
+  After a few too many years of avoiding office space I have plunged back into the IT 💻 world, kicking off with an intensive (to say the least 👀), 9 week coding bootcamp with Le Wagon London and oh my days.., 🤯 what an experience 🥳 .  MASSIVE TYS to everyone there XX
  
- Although primarily through the camp we have learnt Ruby, Ruby on Rails, SQL, PostgreSQL, HTML, SCSS and JavaScript (forgetting to mentioon a few more tbh), I now just want more.., NEEEED more.
+  Although primarily through the camp we have learnt Ruby, Ruby on Rails, SQL, PostgreSQL, HTML, SCSS and JavaScript (forgetting to mention a few more tbh), I now just want more.., NEEEED more.
+
+  Currently working on a reboot of the camp exercises and a week long intro to react, redux, and rails integration.
+
 
 <!--
 **akbattman/akbattman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
