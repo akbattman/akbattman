@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbattman&count_private=true&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbattman&count_private=true&show_icons=true&theme=radical) -->
 
 <br>
 <h3 align="left">👋 Howdy</h3>
