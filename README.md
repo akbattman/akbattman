@@ -9,7 +9,7 @@
   Although primarily through the camp we have learnt Ruby, Ruby on Rails, SQL, PostgreSQL, HTML, SCSS and JavaScript (forgetting to mention a few more tbh), I now just want more.., NEEEED more.
 
   Currently working on :
-    a rails minimal project to showcase some project git repos and track progress of additional learning from external platforms like FE Masters, HackerRank and CSS_battle, but to name a few.
+    a rails static pages portfolio 👀
     
     
 
